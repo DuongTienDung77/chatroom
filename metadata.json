@@ -1,0 +1,9 @@
+{
+  "name": " ChatRoom full V2",
+  "description": "A modern chat application to connect with people.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
